@@ -5,7 +5,7 @@
 
 ### Tecnologías y Herramientas
 - **Lenguajes de Programación**: Java ☕, Python 🐍, JavaScript ⚡
-- **Frameworks y Librerías**: React ⚛️, Node.js 🟢
+- **Frameworks y Librerías**: Angular 17 🅰️, Node.js 🟢
 - **Bases de Datos**: MySQL 🐬, MongoDB 🍃
 - **Otros**: Git 🌳, Docker 🐳
 
