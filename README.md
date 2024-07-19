@@ -11,7 +11,7 @@
 
 ### Proyectos Destacados
 - **[Grúa Electrica](https://github.com/Dancode2024/Gr-a_IoT)**: Automatización de una Grúa con Iot📝.
-- **[Acercamiento a PyQt6](https://github.com/Dancode2024/PyQt6_1))**: Aprendizaje de PyQt6 📝.
+- **[Acercamiento a PyQt6](https://github.com/Dancode2024/PyQt6_1)**: Aprendizaje de PyQt6 📝.
 
 ### Contacto
 - **Email**: danielvillaltabalcazar@gmail.com 📧
