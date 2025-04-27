@@ -5,7 +5,7 @@
 
 ### Tecnologías y Herramientas
 - **Lenguajes de Programación**: Java ☕, Python 🐍, JavaScript ⚡
-- **Frameworks y Librerías**: Angular 17 🅰️, Node.js 🟢
+- **Frameworks y Librerías**: Flutter 🅰, Firebase 🔥
 - **Bases de Datos**: MySQL 🐬, MongoDB 🍃
 - **Otros**: Git 🌳, Docker 🐳
 
